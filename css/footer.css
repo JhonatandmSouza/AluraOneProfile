@@ -1,0 +1,12 @@
+section.footer{
+    display: flex;
+    background-color: #FFFFFF;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer__rodape p{
+    margin: 0;
+}
